@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on improving my knowledge in **Angular, Spring Boot, Java & Typescript**
 
-- 📫 How to reach me **davisonaustin287@gmail.com**
+- 📫 Contact me @ **davisonaustin287@gmail.com**
 
 - ⚡ Fun fact **I also like playing guitar 🎸**
 
