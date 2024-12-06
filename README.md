@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my angular frontend knowledge & spring boot backend knowledge to build up CRUD applications.**
 
-- 🌱 I’m currently working on improving my knowledge in **Angular, Spring Boot, Java & Typescript**
+- 🌱 I’m currently working on improving my knowledge in **Angular, React, NextJS, React Native, Spring Boot, Java & Typescript**
 
 - 📫 Contact me @ **davisonaustin287@gmail.com**
 
