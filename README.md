@@ -7,6 +7,8 @@
 
 - 📫 Contact me @ **davisonaustin287@gmail.com**
 
+- 🌐 My Personal Portfolio Site: <a href="https://fraserlint.github.io/personal-portfolio/">https://fraserlint.github.io/personal-portfolio/</a>
+
 - ⚡ Fun fact **I also like playing guitar 🎸**
 
 <p align="left">
