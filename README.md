@@ -9,7 +9,7 @@
 
 - 🌐 My Personal Portfolio Site: <a href="https://fraserlint.github.io/personal-portfolio/">https://fraserlint.github.io/personal-portfolio/</a>
 
-- ⚡ Fun fact **I also like playing guitar 🎸**
+- ⚡ Fun fact **I also like play guitar 🎸**
 
 <p align="left">
 </p>
