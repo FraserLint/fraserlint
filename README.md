@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin!</h1>
-<h3 align="center">A coding enthusiast and College Graduate from the UK who just finished a T-Level in Digital Production Design & Development & work placement/internship at Lhasa Limited who's hoping to progress to software developer role in the future :)</h3>
+<h3 align="center">An Apprentice Software Developer @ Envoke)</h3>
 
 - 🔭 I’m currently working on **improving my angular and nextjs frontend knowledge & spring boot and prisma backend knowledge to build up applications.**
 
-- 🌱 I’m currently working on improving my knowledge in **Angular, React, NextJS, React Native, Spring Boot, Java & Typescript**
+- 🌱 I’m currently working on improving my knowledge in **ThreeJS, Angular, React, NextJS, React Native, Spring Boot, Java & Typescript**
 
 - 📫 Contact me @ **davisonaustin287@gmail.com**
 
