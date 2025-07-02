@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin!</h1>
-<h3 align="center">An Apprentice Software Developer @ Envoke)</h3>
+<h3 align="center">An Apprentice Software Developer @ Envoke</h3>
 
 - 🔭 I’m currently working on **improving my angular and nextjs frontend knowledge & spring boot and prisma backend knowledge to build up applications.**
 
